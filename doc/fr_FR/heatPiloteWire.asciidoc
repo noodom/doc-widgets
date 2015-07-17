@@ -37,7 +37,7 @@ Ce widget permet d'afficher l'état de vos radiateurs pilotés par fil-pilote.
 |image:commun_widgets_icone_market.png[role="related thumb left",width=200]
 
 |Dans le plugin
-|image:commun_menu_plugins.png[role="related thumb",width=80] > image:commun_menu_programmation.png[role="related thumb",width=120] > image:commun_menu_widget.png[role="related thumb",width=80]
+|image:commun_menu_plugins.png[role="related thumb",height=5] > image:commun_menu_programmation.png[role="related thumb",width=120] > image:commun_menu_widget.png[role="related thumb",width=80]
 
 |Dans le menu de gauche cliquer sur market
 |image:commun_bouton_market.png[role="related thumb left",width=200]
