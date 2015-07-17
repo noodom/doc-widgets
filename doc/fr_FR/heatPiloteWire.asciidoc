@@ -3,13 +3,62 @@
 :linkattrs:
 
 = heatPiloteWire
+
+Ce widget permet d'afficher l'état de vos radiateurs pilotés par fil-pilote.
+
+'''
+
++++<u>Ce widget est fonctionnel pour :</u>+++
+[options="header,autowidth",role="text-justify"]
+|===
+|Desktop | Mobile | Vue | Design
+|image:commun_valide_oui.png[role="related thumb left",width=50]
+|image:commun_valide_oui.png[role="related thumb left",width=50]
+|image:commun_valide_oui.png[role="related thumb left",width=50]
+|image:commun_valide_oui.png[role="related thumb left",width=50]
+|===
+
+
++++<u>Visuel du wiget :</u>+++
+[options="header,autowidth",role="text-justify"]
+|===
+|Desktop | Mobile | Vue
+|image:heatPiloteWire02.png[role="related thumb left",width=200]
+|image:heatPiloteWire04.png[role="related thumb left",width=200]
+|image:heatPiloteWire03.png[role="related thumb left",width=200]
+|===
+
+== Installation
+
+[options="header,autowidth",role="text-justify"]
+|===
+| |
+|L'installation des widgets nécéssite l'installation préalable du plugin widget.
+|image:commun_widgets_icone_market.png[role="related thumb left",width=200]
+
+|Dans le plugin
+|image:commun_menu_plugins.png[role="related thumb",width=80] > image:commun_menu_programmation.png[role="related thumb",width=120] > image:commun_menu_widget.png[role="related thumb",width=80]
+
+|Dans le menu de gauche cliquer sur market
+|image:commun_bouton_market.png[role="related thumb left",width=200]
+
+|Utiliser le champ recherche {nbsp} +
+ou parcourer les widgets par catégories.
+|image:commun_champ_recherche.png[role="related thumb left",width=200]
+
+|Selectionner et installer le widget désiré.{nbsp} +
+Si le widget existe en version desktop et mobile, installer les deux.
+|widget desktop : image:commun_minilogo_desktop.png[role="related thumb",width=50]
 {nbsp} +
-Ce widget permet ...
 {nbsp} +
+widget mobile : image:commun_minilogo_mobile.png[role="related thumb",width=50]
+
+|===
+
 
 == Configuration
 
-BLABLABLA
+
 {nbsp} +
 
 == Widget
@@ -22,7 +71,7 @@ BLABLABLA
 [options="header,autowidth",role="text-justify"]
 |===
 |Widget Desktop | Actions
-|image:heatPiloteWire01.png[role="related thumb left",width=200]
+|image:commun_valide_oui1.png[role="related thumb left",width=200]
 | Vous pouvez BlaBlaBla
 |===
 
