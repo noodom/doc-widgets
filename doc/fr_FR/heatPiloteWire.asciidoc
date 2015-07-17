@@ -1,0 +1,43 @@
+:imagesdir: ../images
+:experimental:
+:linkattrs:
+
+= heatPiloteWire
+{nbsp} +
+Ce widget permet ...
+{nbsp} +
+
+== Configuration
+
+BLABLABLA
+{nbsp} +
+
+== Widget
+
+=== Desktop
+
+BLABLABLA
+{nbsp} +
+
+[options="header,autowidth",role="text-justify"]
+|===
+|Widget Desktop | Actions
+|image:heatPiloteWire01.png[role="related thumb left",width=200]
+| Vous pouvez BlaBlaBla
+|===
+
+
+=== Mobile
+
+[options="header,autowidth",role="text-justify"]
+|===
+|Widget Mobile | Actions
+|image:heatPiloteWire01.png[role="related thumb left",width=200]
+| Vous pouvez BlaBlaBla
+|===
+
+
+== Troubleshoting
+
+Vérifier que les info sont bien numérique BLABLALBLA
+{nbsp} +
