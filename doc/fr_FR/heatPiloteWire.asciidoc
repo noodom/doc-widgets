@@ -30,6 +30,8 @@ Ce widget permet d'afficher l'état de vos radiateurs pilotés par fil-pilote.
 
 == Installation
 
+=== Prérequis
+
 [options="header,autowidth",role="text-justify"]
 |===
 | |
@@ -55,38 +57,56 @@ widget mobile : image:commun_minilogo_mobile.png[role="related thumb",width=50]
 
 |===
 
+=== Widget
+
+Installer les widgets :
+
+[options="header,autowidth",role="text-justify"]
+|===
+|Nom du widet | Environnement
+|dashboard.info.numeric.heatPiloteWire
+|Pour dashboard, vue et design
+
+|mobile.info.numeric.heatPiloteWire
+|Pour mobile
+|===
 
 == Configuration
 
-
-{nbsp} +
-
-== Widget
-
-=== Desktop
-
-BLABLABLA
-{nbsp} +
+Le wiget prend en compte les quatre états suivant :
 
 [options="header,autowidth",role="text-justify"]
 |===
-|Widget Desktop | Actions
-|image:commun_valide_oui1.png[role="related thumb left",width=200]
-| Vous pouvez BlaBlaBla
+|Valeur d'état | mode | Visuel
+|0
+|Confort
+|image:heatPiloteWire05.png[role="related thumb left",width=200]
+
+|1
+|Hors-Gel
+|image:heatPiloteWire06.png[role="related thumb left",width=200]
+
+|2
+|Off
+|image:heatPiloteWire07.png[role="related thumb left",width=200]
+
+|3
+|Eco
+|image:heatPiloteWire08.png[role="related thumb left",width=200]
 |===
 
-
-=== Mobile
-
-[options="header,autowidth",role="text-justify"]
-|===
-|Widget Mobile | Actions
-|image:heatPiloteWire01.png[role="related thumb left",width=200]
-| Vous pouvez BlaBlaBla
-|===
+{nbsp} +
+Ce widget fonctionnera même si vous ne disposer pas de l'ensemble de ces états.
+{nbsp} +
+Ce widget nécessite d'avoir le status au format *numérique* et non binaire.
+{nbsp} +
+Si vous n'avez que deux états (0/1) vous devez néanmoins être en numérique et non bianire.
 
 
 == Troubleshoting
 
-Vérifier que les info sont bien numérique BLABLALBLA
-{nbsp} +
+[panel,danger]
+.Vous ne trouver pas le wiget dans la liste lors de l'application à votre équipement
+--
+Votre état n'est pas au format *numérique*
+--
