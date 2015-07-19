@@ -101,7 +101,10 @@ Ce widget fonctionnera même si vous ne disposer pas de l'ensemble de ces états
 Ce widget nécessite d'avoir le status au format *numérique* et non binaire.
 {nbsp} +
 Si vous n'avez que deux états (0/1) vous devez néanmoins être en numérique et non bianire.
-
+{nbsp} +
+{nbsp} +
+Pour appliquer le widget sur votre équipement/commande, suivez la documentation :
+https://www.jeedom.fr/doc/documentation/plugins/widget/fr_FR/Widgets.html#_appliquer_le_widget_sur_une_commande[Appliquer le widget sur une commande, role="external", window="_blank"]
 
 == Troubleshoting
 
