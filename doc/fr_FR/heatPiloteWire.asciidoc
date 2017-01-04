@@ -19,7 +19,7 @@ Ce widget permet d'afficher l'état de vos radiateurs pilotés par fil-pilote.
 |===
 
 
-+++<u>Visuel du wiget :</u>+++
++++<u>Visuel du widget :</u>+++
 [options="header,autowidth",role="text-justify"]
 |===
 |Desktop | Mobile | Vue
@@ -35,21 +35,21 @@ Ce widget permet d'afficher l'état de vos radiateurs pilotés par fil-pilote.
 [options="header,autowidth",role="text-justify"]
 |===
 | |
-|L'installation des widgets nécéssite l'installation préalable du plugin widget.
+|L'installation des widgets nécessite l'installation préalable du plugin widget.
 |image:commun_widgets_icone_market.png[role="related thumb left",width=200]
 
 |Dans le plugin
 |image:commun_menu_plugins.png[role="related thumb",width=80] > image:commun_menu_programmation.png[role="related thumb",width=120] > image:commun_menu_widget.png[role="related thumb",width=80]
 
-|Dans le menu de gauche cliquer sur market
+|Dans le menu de gauche, cliquez sur market
 |image:commun_bouton_market.png[role="related thumb left",width=200]
 
-|Utiliser le champ recherche {nbsp} +
-ou parcourer les widgets par catégories.
+|Utilisez le champ recherche {nbsp} +
+ou parcourez les widgets par catégories.
 |image:commun_champ_recherche.png[role="related thumb left",width=200]
 
-|Selectionner et installer le widget désiré.{nbsp} +
-Si le widget existe en version desktop et mobile, installer les deux.
+|Selectionnez et installez le widget désiré.{nbsp} +
+Si le widget existe en version desktop et mobile, installez les deux.
 |widget desktop : image:commun_minilogo_desktop.png[role="related thumb",width=50]
 {nbsp} +
 {nbsp} +
@@ -59,7 +59,7 @@ widget mobile : image:commun_minilogo_mobile.png[role="related thumb",width=50]
 
 === Widget
 
-Installer les widgets :
+Installez les widgets :
 
 [options="header,autowidth",role="text-justify"]
 |===
@@ -73,7 +73,7 @@ Installer les widgets :
 
 == Configuration
 
-Le wiget prend en compte les quatre états suivant :
+Le widget prend en compte les quatre états suivants :
 
 [options="header,autowidth",role="text-justify"]
 |===
@@ -96,11 +96,11 @@ Le wiget prend en compte les quatre états suivant :
 |===
 
 {nbsp} +
-Ce widget fonctionnera même si vous ne disposer pas de l'ensemble de ces états.
+Ce widget fonctionnera même si vous ne disposez pas de l'ensemble de ces états.
 {nbsp} +
 Ce widget nécessite d'avoir le status au format *numérique* et non binaire.
 {nbsp} +
-Si vous n'avez que deux états (0/1) vous devez néanmoins être en numérique et non bianire.
+Si vous n'avez que deux états (0/1), vous devez néanmoins être en numérique et non binaire.
 {nbsp} +
 {nbsp} +
 Pour appliquer le widget sur votre équipement/commande, suivez la documentation :
@@ -109,7 +109,7 @@ https://www.jeedom.fr/doc/documentation/plugins/widget/fr_FR/Widgets.html#_appli
 == Troubleshoting
 
 [panel,danger]
-.Vous ne trouver pas le wiget dans la liste lors de l'application à votre équipement
+.Vous ne trouvez pas le widget dans la liste lors de l'application à votre équipement
 --
 Votre état n'est pas au format *numérique*
 --
